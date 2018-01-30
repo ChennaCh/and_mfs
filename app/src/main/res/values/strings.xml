@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">MyFleetServices</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="openDrawer">open_drawer</string>
+    <string name="closeDrawer">close_drawer</string>
+    <string name="triphistory"><u>Trip Histroy</u></string>
+
+    <string name="msg">Allow MyFleetServices to access your location</string>
+
+
+    <string name="history">Last One Week Trips </string>
+
+
+    <!-- Navigation Drawer menu labels -->
+    <string name="nav_overview">OverView</string>
+    <string name="nav_vehiclelist">VehicleList</string>
+    <string name="nav_acount">Account</string>
+    <string name="nav_logout">Logout</string>
+    <string name="nav_history">History</string>
+
+    <!-- Toolbar titles when navigation menu item is selected -->
+    <string-array name="nav_item_activity_titles">
+        <item>Overview</item>
+        <item>VehicleList</item>
+        <item>Account</item>
+        <item>History</item>
+        <item>Logout</item>
+
+    </string-array>
+    <string name="action_closeapp">CloseApp</string>
+    <string name="action_logout">Logout</string>
+    <string name="action_refresh">refresh</string>
+    <string name="action_search">Search</string>
+
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Fragemtn 2</string>
+    <string name="title_activity_vehicle_detail_acitivty">VehicleDetailAcitivty</string>
+    <string name="title_activity_maps">Map</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="single_permission_text">(Click on FAB to check Single permission.\nTo test again, change the app permission in settings or reinstall the app)</string>
+
+</resources>
